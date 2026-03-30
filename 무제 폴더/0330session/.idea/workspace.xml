@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42e30722-8cbf-4706-9fce-b71e4a15fa82" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/0330session.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/src/likelion/Beverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/src/likelion/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/src/likelion/EnergyDrink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/src/likelion/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../무제 폴더/0330session/src/likelion/VendingMachine.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3Bf36KsVjkRk9iKEqJDGR9H4LJU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42e30722-8cbf-4706-9fce-b71e4a15fa82" name="Changes" comment="" />
+      <created>1774866120939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774866120939</updated>
+    </task>
+    <servers />
+  </component>
+</project>
