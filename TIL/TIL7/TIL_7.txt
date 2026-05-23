@@ -1,0 +1,21 @@
+# 📘 Today I Learned
+
+### 1. 오늘 배운 내용
+- @RestController, @RequestMapping, @PostMapping, @PutMapping, @DeleteMapping 을 사용하여 REST API를 구현했다.
+MemberService에서 회원 생성, 수정, 삭제 로직과 중복 검사 로직을 구현했다.
+Postman을 사용하여 API 요청을 테스트하고 상태 코드를 확인했다.
+중복 회원 등록 시 409 Conflict 상태 코드를 반환하도록 처리했다.
+
+### 2. 핵심 정리 (내 언어로)
+- Spring Boot는 Controller -> Service -> Repository 구조로 역할을 나누어 개발한다.
+Repository는 데이터를 저장하고 조회하는 역할을 담당한다.
+Service는 실제 비즈니스 로직을 처리한다.
+Controller는 HTTP 요청을 받아 Service에 전달하고 응답을 반환한다.
+중복 회원 검사 시 existsByName()을 통해 이름이 이미 존재하면 저장하지 않고 409 Conflict를 반환할 수 있다.
+
+### 3. 결과 이미지(스크린샷)
+-
+
+### 4. 느낀 점
+- Postman으로 직접 API를 테스트해보니 Controller와 Service가 실제로 어떻게 동작하는지 체감할 수 있었다.
+패키지 구조와 실행 설정 때문에 오류가 많이 발생했지만, 원인을 하나씩 확인하면서 해결해나갔다.
