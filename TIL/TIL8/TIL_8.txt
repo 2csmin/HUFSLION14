@@ -1,0 +1,19 @@
+# 📘 Today I Learned
+
+### 1. 오늘 배운 내용
+- Spring Boot와 MySQL을 연동하여 JPA 기반 CRUD API를 구현했다.
+JpaRepository를 활용하여 별도의 SQL 없이 CRUD 기능을 구현했다.
+MySQL Workbench에서 실제 데이터 저장 결과를 확인했다.
+
+### 2. 핵심 정리 (내 언어로)
+- JPA는 자바 객체와 DB 테이블을 연결해주는 기술이다. 이전에는 ArrayList에 데이터를 저장했지만, 이번에는 MySQL DB에 저장하도록 변경했다.
+@Entity를 사용하면 해당 클래스가 DB 테이블과 매핑되고, @ID, @GeneratedValue를 통해 기본키를 자동 생성할 수 있다.
+JpaRepository를 상속하면 CRUD 메서드를 자동으로 사용할 수 있어서 코드가 훨씬 간단해진다.
+
+### 3. 결과 이미지(스크린샷)
+-
+
+### 4. 느낀 점
+- package 구조와 MySQL 연결 설정 때문에 오류가 많이 발생했지만, 하나씩 수정하면서 더 잘 이해할 수 있었다.
+JPA를 사용하니 SQL을 직접 작성하지 않아도 CRUD가 가능하다는 점이 인상깊었다.
+
